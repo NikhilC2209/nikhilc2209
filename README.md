@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...-->
 - 🌱 I’m currently exploring Data Science 
-- :name_badge: Interim Head at <a href="https://owaspvit.com/">OWASP VITCC Student Chapter</a>
+- :name_badge: Development Lead at <a href="https://cyscomvit.com/">CYSCOM VITCC Student Chapter</a>
 - 🤔 I’m highly interested in Cybersecurity
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/nikhil-chapre-29b8231b2/">LinkedIN</a>
 - 😄 Pronouns: He/Him 
