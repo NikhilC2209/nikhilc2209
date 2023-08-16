@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 ## Statistics :chart_with_upwards_trend: 
   
 <a href="https://github.com/nikhilc2209/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilc2209&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true">    
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilc2209&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=500px">    
 </a>
 <a href="https://github.com/nikhilc2209/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilc2209&layout=compact&theme=radical">    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilc2209&layout=compact&theme=radical&card_width=500px">    
 </a>  
 <!--[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilc2209&theme=radical&show_icons=true&count_private=true)](https://github.com/nikhilc2209/github-readme-stats) -->
 
