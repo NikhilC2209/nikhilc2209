@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...-->
-- 🌱 I’m currently exploring Data Science 
-- :name_badge: Development Lead at <a href="https://cyscomvit.com/">CYSCOM VITCC Student Chapter</a>
+- 🌱 I’m currently exploring Computer Vision 
+- :name_badge: Former Development Lead at <a href="https://cyscomvit.com/">OWASP VITCC Student Chapter(now CYSCOM VITCC)</a>
 - 🤔 I’m highly interested in Cybersecurity
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/nikhil-chapre-29b8231b2/">LinkedIN</a>
 - 😄 Pronouns: He/Him 
