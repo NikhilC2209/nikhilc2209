@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...-->
 - :name_badge: Former Development Lead at <a href="https://cyscomvit.com/">OWASP VITCC Student Chapter(now CYSCOM VITCC)</a>
 - 🤔 I’m highly interested in Cybersecurity
-- 👨🏻‍💻 I play CTF's with <a href="https://www.linkedin.com/in/nikhil-chapre-29b8231b2/">[CTF Academy](https://ctftime.org/team/384247/)</a>
+- 👨🏻‍💻 I play CTF's with [Shellphish](https://shellphish.net/) and [CTF Academy](https://ctftime.org/team/384247/)
 - 🌱 I’m currently exploring Embedded Systems 
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/nikhil-chapre-29b8231b2/">LinkedIN</a>
 - 😄 Pronouns: He/Him 
