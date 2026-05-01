@@ -9,9 +9,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...-->
-- :name_badge: Former Development Lead at <a href="https://cyscomvit.com/">OWASP VITCC Student Chapter(now CYSCOM VITCC)</a>
-- 🤔 I’m highly interested in Cybersecurity
+- 🔎 I do security research in SEFCOM LAB @ ASU
+- 🤔 I’m highly interested in Reverse Engineering & Binary analysis 
 - 👨🏻‍💻 I play CTF's with [Shellphish](https://shellphish.net/) and [CTF Academy](https://ctftime.org/team/384247/)
+- </> I contribute to Open source projects like angr and pwndbg. 
 - 🌱 I’m currently exploring Embedded Systems 
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/nikhil-chapre-29b8231b2/">LinkedIN</a>
 - 😄 Pronouns: He/Him 
